@@ -6,7 +6,7 @@
 _**Footer**_ allows the user to navigate easily through important touchpoints of the website
 {% endhint %}
 
-![Footer](../.gitbook/assets/footer.png)
+![Footer component](../.gitbook/assets/footer.png)
 
 These _footer_ will include different patterns:
 

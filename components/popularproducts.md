@@ -11,5 +11,5 @@ In the past, we were using the price per person. But we won't use it anymore. We
 * Cheapest entire private car or
 * Cheapest shuttle for one pax.
 
-![Popular Products](../.gitbook/assets/popularproducts.png)
+![Popular Products component](../.gitbook/assets/popularproducts%20%281%29.png)
 

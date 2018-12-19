@@ -6,7 +6,7 @@
 The _**Product Category**_ is a brief of the available products, categorized.
 {% endhint %}
 
-![Product category image](../.gitbook/assets/productcategory.png)
+![Product category component](../.gitbook/assets/productcategory.png)
 
 ### Categories and products
 

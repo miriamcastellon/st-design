@@ -8,7 +8,7 @@ _**Feature List**_ enables users to quickly have an overview of content.
 
 It's a list, without links. Each element of the list shows a title and description.
 
-![Feature List](../.gitbook/assets/featurelist.png)
+![Feature List component](../.gitbook/assets/featurelist.png)
 
 This _list_ will include a:
 

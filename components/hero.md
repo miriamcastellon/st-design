@@ -8,7 +8,7 @@ The _**Hero**_ displays the top of the page in the landing pages.
 
 It's a component with several components inside and configuration element for the content.
 
-![:size=400px](../.gitbook/assets/hero.png)
+![Hero component](../.gitbook/assets/hero%20%281%29.png)
 
 ### Hero component structure
 

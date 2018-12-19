@@ -6,7 +6,7 @@
 _**groundNav**_ is a special navigation, specially prepared to work at the bottom of any page
 {% endhint %}
 
-![:size=500](../.gitbook/assets/groundnav.png)
+![Ground Nav component](../.gitbook/assets/groundnav%20%281%29.png)
 
 These _component_ will include:
 

@@ -10,9 +10,9 @@ We are combining both languages and currencies selection into one single element
 SEO concerns: the links to the lang and curr need to appear somewhere. It can be in the Javascript.
 {% endhint %}
 
-![:min-width=400px](../.gitbook/assets/langheader%20%281%29.png) ![:min-width=400px](../.gitbook/assets/langfooter%20%281%29.png)
+![:min-width=400px](../.gitbook/assets/langheader.png) ![:min-width=400px](../.gitbook/assets/langfooter.png)
 
-![Overlay](../.gitbook/assets/languageandcurrency-overlay%20%281%29.png)
+![Language and currencies overlay](../.gitbook/assets/languageandcurrency-overlay%20%282%29.png)
 
 ## Settings overlay
 
@@ -20,7 +20,7 @@ You get there tapping the component. It will trigger a `is-active` class in the 
 
 **Note:** The overlay shows up with a transition in 2 times.
 
-![Overlay](../.gitbook/assets/overlay2times%20%281%29.jpg)
+![Transition overlay in 2 times](../.gitbook/assets/overlay2times.jpg)
 
 ### Default state
 
@@ -39,7 +39,7 @@ You get there by tapping language select. We will use the native `<select>`
 
 ### Content
 
-The language flag \( ![:zoom:100%](../.gitbook/assets/langflag.png) \) changes according to the selected option. Also, the options list has two sections: "Popular languages" with a top 5 \(English, Spanish, Deutsch, French, Italian\) and "All languages".&lt;/span&gt;
+The language flag \( ![:zoom:100%](../.gitbook/assets/langflag%20%281%29.png) \) changes according to the selected option. Also, the options list has two sections: "Popular languages" with a top 5 \(English, Spanish, Deutsch, French, Italian\) and "All languages".&lt;/span&gt;
 
 ## Settings overlay with Currency active
 
