@@ -1,4 +1,4 @@
-# transfer-details
+# Transfer Details
 
 ## Task
 

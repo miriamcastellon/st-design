@@ -1,4 +1,4 @@
-# imagesInS3
+# Images in S3
 
 ## Structure in S3
 

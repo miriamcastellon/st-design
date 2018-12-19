@@ -1,4 +1,4 @@
-# productDesignArticles
+# Product Design Articles
 
 Text
 
