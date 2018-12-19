@@ -6,7 +6,7 @@ Unify page titles, button labels and link texts of the booking process stepper, 
 
 ## Stepper flow with page titles, button labels and link texts
 
-![Stepper flow](../../.gitbook/assets/stepper.png)
+![Stepper flow](../../.gitbook/assets/stepper%20%281%29.png)
 
 > [Download the stepper mind map](http://127.0.0.1:3000/pages/projects/cro2018/stepper.xmind)
 

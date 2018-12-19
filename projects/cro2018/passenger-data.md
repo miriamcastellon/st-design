@@ -14,5 +14,5 @@ Reorder, visual refinement and rewording of the passenger data form.
 
 ### Passenger data form with shuttle info
 
-![Passenger data form shuttle](../../.gitbook/assets/ds3su.passenger.data.shuttle.png)
+![Passenger data form for shuttles](../../.gitbook/assets/ds3su.passenger.data.shuttle.png)
 

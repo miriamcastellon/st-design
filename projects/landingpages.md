@@ -4,7 +4,7 @@
 Due to the SEO strategy, we will include in our landing pages more content, related to that particular page.
 {% endhint %}
 
-![landingPages-content](../.gitbook/assets/landingpages-content.jpg)
+![Landing pages content](../.gitbook/assets/landingpages-content.jpg)
 
 ## Specification
 
