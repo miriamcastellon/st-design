@@ -1,4 +1,4 @@
-# Popular Products
+# popularproducts
 
 ## Standard implementation
 
@@ -11,5 +11,5 @@ In the past, we were using the price per person. But we won't use it anymore. We
 * Cheapest entire private car or
 * Cheapest shuttle for one pax.
 
-![Popular Products component](../.gitbook/assets/popularproducts%20%281%29.png)
+![Popular Products component](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/popularproducts%20%281%29.png)
 

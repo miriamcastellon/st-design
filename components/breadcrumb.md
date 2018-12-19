@@ -1,4 +1,4 @@
-# Breadcrumb
+# breadcrumb
 
 ## Standard implementation
 
@@ -12,7 +12,7 @@ The parent will display the icon related to the type of gateway. In the case of 
 I think we're doing it wrong, because imho we should have something like Italy - Rome - Fiumicino.
 {% endhint %}
 
-![Breadcrumb in Landings](../.gitbook/assets/breadcrumb%20%281%29.png)
+![Breadcrumb in Landings](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/breadcrumb%20%281%29.png)
 
 ### Mobile
 

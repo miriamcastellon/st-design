@@ -1,4 +1,4 @@
-# Ground Nav
+# groundnav
 
 ## Standard implementation
 
@@ -6,7 +6,7 @@
 _**groundNav**_ is a special navigation, specially prepared to work at the bottom of any page
 {% endhint %}
 
-![Ground Nav component](../.gitbook/assets/groundnav%20%281%29.png)
+![Ground Nav component](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/groundnav%20%281%29.png)
 
 These _component_ will include:
 

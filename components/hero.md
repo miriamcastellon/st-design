@@ -1,4 +1,4 @@
-# Hero
+# hero
 
 ## Standard implementation
 
@@ -8,7 +8,7 @@ The _**Hero**_ displays the top of the page in the landing pages.
 
 It's a component with several components inside and configuration element for the content.
 
-![Hero component](../.gitbook/assets/hero%20%281%29.png)
+![Hero component](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/hero%20%281%29.png)
 
 ### Hero component structure
 

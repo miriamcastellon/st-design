@@ -1,4 +1,4 @@
-# Search Form
+# searchform
 
 ## Standard implementation
 
@@ -16,13 +16,13 @@ Improve the interaction and CTR in the landing pages.
 4. We won't show more than 5 elements in the list
 5. We will highlight the content written in the input in the drop-downs. We will highlight entire word with the text written \(input: Bar, highlight words: Barcelona, Bariloche, …\)
 
-![From fields behaviour](../.gitbook/assets/from.png) ![To fields behaviour](../.gitbook/assets/to%20%281%29.png)
+![From fields behaviour](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/from.png) ![To fields behaviour](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/to%20%281%29.png)
 
 ## To field if we keep the current Search-form
 
 1. Show the most popular locations once the user clicks in the To field \(and the first element is already filled\)
 
-   ![Current To field behaviour](../.gitbook/assets/currentto%20%281%29.png)
+   ![Current To field behaviour](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/currentto%20%281%29.png)
 
 ### Errors
 
@@ -32,7 +32,7 @@ Improve the interaction and CTR in the landing pages.
 4. When an error triggers, the input border turns red and a `REQUIRED` label appears to the right.
 5. When an input gets focused the error disappears.
 
-![From and To field errors](../.gitbook/assets/fromtoerrors%20%281%29.png)
+![From and To field errors](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/fromtoerrors%20%281%29.png)
 
 ### Switch from and to behaviour
 
@@ -40,7 +40,7 @@ Improve the interaction and CTR in the landing pages.
 2. If the fields are filled with valid content, they will remain the same.
 3. If the fields are half-filled or have errors, they will reset and appear blank just before the animation starts.
 
-![Switch button animation](../.gitbook/assets/fromtoswitch.png)
+![Switch button animation](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/fromtoswitch.png)
 
 [filename](https://github.com/miriamcastellon/st-design/tree/99718b5c0f94642adcc71ce0bb04edaf57a88780/docs/pages/components/searchForm/switchAnimation.mp4)
 
@@ -59,14 +59,14 @@ Improve the interaction and CTR in the landing pages.
 
 1. We use the native iOS datetime picker.
 
-![iOS date selection](../.gitbook/assets/iosdateselection%20%281%29.png)
+![iOS date selection](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/iosdateselection%20%281%29.png)
 
 ### Android date selection
 
 1. We use the native Android date picker and time picker, so it requires one step more than iOS. Would be nice if it could be chained, so exiting date selection could trigger time selection.
 2. If possible, we will have tappable part that will open only the timepicker.
 
-![Android date selection](../.gitbook/assets/androiddateselection.png)
+![Android date selection](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/androiddateselection.png)
 
 ### Passengers input
 
@@ -77,5 +77,5 @@ Improve the interaction and CTR in the landing pages.
 5. If no children are selected the descriptive label should only display the necessary words: `3 adults`.
 6. Tapping outside the popover or clicking `Done` should leave the selection as it is.
 
-![Passengers input](../.gitbook/assets/passengers.png)
+![Passengers input](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/passengers.png)
 

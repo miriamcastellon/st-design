@@ -1,4 +1,4 @@
-# Images List
+# imageslist
 
 ## Standard implementation
 
@@ -6,7 +6,7 @@
 _**Images list**_ displays cards horizontally through a lateral scroll within a title, a description and a background.
 {% endhint %}
 
-![Images list component](../.gitbook/assets/imageslist%20%281%29.png)
+![Images list component](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/imageslist%20%281%29.png)
 
 These _images_ will include:
 

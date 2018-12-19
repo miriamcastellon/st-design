@@ -1,4 +1,4 @@
-# Footer
+# footer
 
 ## Standard implementation
 
@@ -6,7 +6,7 @@
 _**Footer**_ allows the user to navigate easily through important touchpoints of the website
 {% endhint %}
 
-![Footer component](../.gitbook/assets/footer.png)
+![Footer component](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/footer.png)
 
 These _footer_ will include different patterns:
 

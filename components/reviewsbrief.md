@@ -1,4 +1,4 @@
-# Reviews Brief
+# reviewsbrief
 
 ## **Standard implementation**
 
@@ -6,7 +6,7 @@
 _**Reviews brief**_ enables users to quickly have an overview of the value of the service from 3rd party companies.
 {% endhint %}
 
-![Reviews brief component](../.gitbook/assets/reviewsbrief.png)
+![Reviews brief component](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/reviewsbrief.png)
 
 This _banners_ will include the:
 

@@ -1,4 +1,4 @@
-# Product Category
+# productcategory
 
 ## Standard implementation
 
@@ -6,7 +6,7 @@
 The _**Product Category**_ is a brief of the available products, categorized.
 {% endhint %}
 
-![Product category component](../.gitbook/assets/productcategory.png)
+![Product category component](https://github.com/miriamcastellon/st-design/tree/10a3297df124277b17d6268d0c90d09255da081f/design-system/.gitbook/assets/productcategory.png)
 
 ### Categories and products
 
