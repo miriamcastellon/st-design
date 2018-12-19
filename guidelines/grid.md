@@ -10,7 +10,7 @@ description: Grid layout settings for Sketch.
 
 ## Tablet portrait – 768x1024
 
-![Tablet portrait](../.gitbook/assets/st.layout.settings.tablet.portrait.png)
+![Tablet portrait](../.gitbook/assets/st.layout.settings.tablet.portrait%20%281%29.png)
 
 ## Tablet landscape – 1024x768
 
