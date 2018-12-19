@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Presentation](README.md)
+* [I'm a unicorn!](README.md)
 * [Components](components/README.md)
   * [Search Form](components/searchform.md)
   * [Popular Products](components/popularproducts.md)
