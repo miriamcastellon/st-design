@@ -1,25 +1,20 @@
-
-# Stepper
-
+# stepper
 
 ## Task
 
 Unify page titles, button labels and link texts of the booking process stepper, both in desktop and mobile.
 
-
 ## Stepper flow with page titles, button labels and link texts
 
-![Stepper flow](stepper.png)
+![Stepper flow](../../.gitbook/assets/stepper.png)
 
 > [Download the stepper mind map](http://127.0.0.1:3000/pages/projects/cro2018/stepper.xmind)
 
-
 ## Stepper page titles, button labels and link texts
-
 
 ### Page title
 
-```
+```text
 0. Home or landing      -> Search
 1. VEHICLE              -> Vehicle selection
 2. EXTRAS               -> Extras
@@ -32,7 +27,7 @@ Unify page titles, button labels and link texts of the booking process stepper, 
 
 ### Button label
 
-```
+```text
 0. Search              -> Search
 1. Select this vehicle -> Select this vehicle
 2. Continue            -> Continue
@@ -45,7 +40,7 @@ Unify page titles, button labels and link texts of the booking process stepper, 
 
 ### Link text
 
-```
+```text
 0. —       -> —
 1. —       -> Make a new search
 2. GO BACK -> Back to vehicle selection
@@ -56,18 +51,17 @@ Unify page titles, button labels and link texts of the booking process stepper, 
 5. —       -> Back to summary
 ```
 
-
 ## Steps flow
-
 
 ### Desktop
 
-```
+```text
 Vehicle selection > Extras > Transfer details > Summary > Payment
 ```
 
 ### Mobile
 
-```
+```text
 Vehicle selection > Extras > Passenger data > Transfer details > Summary > Payment
 ```
+

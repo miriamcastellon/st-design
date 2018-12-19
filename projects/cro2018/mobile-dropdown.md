@@ -1,30 +1,26 @@
-
-# Mobile dropdown
-
+# mobile-dropdown
 
 ## Task
 
 Display the country's flag instead of the name when the mobile phone number dropdown is folded to avoid cutting off the name as happens now. Add the country's prefix directly in the input form as non-editable information to clarify what information is selected.
 
 1. The mobile phone number dropdown displays the flag of the selected country when is folded.
-1. The mobile phone number input displays the country prefix number of the selected country as non-editable information. The input is editable one space after the prefix.
-1. The dropdown contains the same information and grouping as it does now: name of country (+phone prefix number).
-1. Selecting a country in the dropdown should focus the phone number input.
-1. Consider using the `optgroup` tag with adequate labels to improve usability and code quality. Example code pasted below.
-
+2. The mobile phone number input displays the country prefix number of the selected country as non-editable information. The input is editable one space after the prefix.
+3. The dropdown contains the same information and grouping as it does now: name of country \(+phone prefix number\).
+4. Selecting a country in the dropdown should focus the phone number input.
+5. Consider using the `optgroup` tag with adequate labels to improve usability and code quality. Example code pasted below.
 
 ### Folded mobile phone number dropdown
 
-![Folded mobile phone number dropdown](dropdown.folded.png)
-
+![Folded mobile phone number dropdown](../../.gitbook/assets/dropdown.folded.png)
 
 ### Current mobile phone number dropdown information grouping
 
-![Current dropdown](current.dropdown.png)
+![Current dropdown](../../.gitbook/assets/current.dropdown.png)
 
 ### Optgroup example code
 
-```
+```text
 <optgroup label="Selected countries">
 <option value="de">Germany (+49)</option>
 <option value="ie">Ireland (+353)</option>
@@ -280,3 +276,4 @@ Display the country's flag instead of the name when the mobile phone number drop
 <option value="zw">Zimbabwe (+263)</option>
 </optgroup>
 ```
+
