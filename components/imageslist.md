@@ -6,7 +6,7 @@
 _**Images list**_ displays cards horizontally through a lateral scroll within a title, a description and a background.
 {% endhint %}
 
-![Reviews brief image](../.gitbook/assets/imageslist.png)
+![Images list component](../.gitbook/assets/imageslist%20%281%29.png)
 
 These _images_ will include:
 
