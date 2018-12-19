@@ -1,6 +1,8 @@
 # Landing Pages
 
-!&gt; Due to the SEO strategy, we will include in our landing pages more content, related to that particular page.
+{% hint style="info" %}
+Due to the SEO strategy, we will include in our landing pages more content, related to that particular page.
+{% endhint %}
 
 ![landingPages-content](../.gitbook/assets/landingpages-content.jpg)
 

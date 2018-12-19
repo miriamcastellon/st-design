@@ -1,6 +1,8 @@
-# grid
+---
+description: Grid layout settings for Sketch.
+---
 
-Grid layout settings for Sketch.
+# Grid
 
 ## Mobile portrait – 375x812
 

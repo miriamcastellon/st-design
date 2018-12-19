@@ -1,4 +1,2 @@
-# iconography
-
-TBD
+# Iconography
 

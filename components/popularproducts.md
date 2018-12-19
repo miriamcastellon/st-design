@@ -1,8 +1,10 @@
-# popularProducts
+# Popular Products
 
 ## Popular products
 
-!&gt; We will use mostly the same as we're using now
+{% hint style="info" %}
+We will use mostly the same as we're using now
+{% endhint %}
 
 ## Price From
 

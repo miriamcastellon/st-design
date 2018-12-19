@@ -2,7 +2,9 @@
 
 ## Structure in S3
 
-!&gt; Having an unique structure and URLs for images helps the web performance, the maintainability and the scalability in Suntransfers' products.
+{% hint style="info" %}
+Having a unique structure and URLs for images helps the web performance, the maintainability and the scalability in Suntransfers' products.
+{% endhint %}
 
 ![Assets](../.gitbook/assets/assetsarchitecture.png)
 

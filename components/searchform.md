@@ -1,8 +1,10 @@
 # Search Form
 
-!&gt; Improve the interaction and CTR in the landing pages.
-
 ## Implementation
+
+{% hint style="info" %}
+Improve the interaction and CTR in the landing pages.
+{% endhint %}
 
 1. All the fields will display a popover relative to the content, not floating
 

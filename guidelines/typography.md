@@ -1,4 +1,2 @@
-# typography
-
-TBD
+# Typography
 

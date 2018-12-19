@@ -1,8 +1,10 @@
-# groundNav
+# Ground Nav
 
 ## Ground Navigation
 
-!&gt; _**groundNav**_ is a special navigation, specially prepared to work at the bottom of any page
+{% hint style="info" %}
+_**groundNav**_ is a special navigation, specially prepared to work at the bottom of any page
+{% endhint %}
 
 ![:size=500](../.gitbook/assets/groundnav.png)
 
