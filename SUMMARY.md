@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Presentation](README.md)
-* [components](components/README.md)
+* [Components](components/README.md)
   * [searchForm](components/searchform.md)
   * [popularProducts](components/popularproducts.md)
   * [groundNav](components/groundnav.md)
