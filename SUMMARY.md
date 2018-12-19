@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Suntransfers Design System](README.md)
+* [Presentation](README.md)
 * [components](components/README.md)
   * [searchForm](components/searchform.md)
   * [popularProducts](components/popularproducts.md)
