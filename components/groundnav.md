@@ -1,6 +1,6 @@
 # Ground Nav
 
-## Ground Navigation
+## Standard implementation
 
 {% hint style="info" %}
 _**groundNav**_ is a special navigation, specially prepared to work at the bottom of any page

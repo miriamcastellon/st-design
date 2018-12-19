@@ -1,8 +1,12 @@
-# Language and currency
+# Language and Currency
 
-!&gt; We are combining both languages and currencies selection into one single element to centralise the action to configure the user localization settings.
+{% hint style="info" %}
+We are combining both languages and currencies selection into one single element to centralise the action to configure the user localisation settings.
+{% endhint %}
 
-!&gt; SEO concerns: the links to the lang and curr need to appear somewhere. It can be in the Javascript.
+{% hint style="info" %}
+SEO concerns: the links to the lang and curr need to appear somewhere. It can be in the Javascript.
+{% endhint %}
 
 ![:min-width=400px](../.gitbook/assets/langheader%20%281%29.png) ![:min-width=400px](../.gitbook/assets/langfooter%20%281%29.png)
 

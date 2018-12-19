@@ -1,6 +1,6 @@
 # Search Form
 
-## Implementation
+## Standard implementation
 
 {% hint style="info" %}
 Improve the interaction and CTR in the landing pages.

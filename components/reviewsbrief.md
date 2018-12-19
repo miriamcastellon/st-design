@@ -1,6 +1,8 @@
-# reviewsBrief
+# Reviews Brief
 
-!&gt; _**Reviews brief**_ enables users to quickly have an overview of the value of the service from 3rd party companies.
+{% hint style="info" %}
+_**Reviews brief**_ enables users to quickly have an overview of the value of the service from 3rd party companies.
+{% endhint %}
 
 ![Reviews brief image](../.gitbook/assets/reviewsbrief.png)
 
