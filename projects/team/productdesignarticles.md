@@ -1,2 +1,0 @@
-# Product Design Articles
-
