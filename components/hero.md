@@ -1,8 +1,10 @@
-# hero
-
-!&gt; The _**Hero**_ displays the top of the page in the landing pages.
+# Hero
 
 ## Standard implementation
+
+{% hint style="info" %}
+The _**Hero**_ displays the top of the page in the landing pages.
+{% endhint %}
 
 It's a component with several components inside and configuration element for the content.
 

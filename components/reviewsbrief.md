@@ -1,12 +1,12 @@
 # Reviews Brief
 
+## **Standard implementation**
+
 {% hint style="info" %}
 _**Reviews brief**_ enables users to quickly have an overview of the value of the service from 3rd party companies.
 {% endhint %}
 
 ![Reviews brief image](../.gitbook/assets/reviewsbrief.png)
-
-## Standard implementation
 
 This _banners_ will include the:
 

@@ -1,5 +1,7 @@
 # Language and Currency
 
+## Standard implementation
+
 {% hint style="info" %}
 We are combining both languages and currencies selection into one single element to centralise the action to configure the user localisation settings.
 {% endhint %}

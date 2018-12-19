@@ -1,10 +1,12 @@
-# productCategory
-
-!&gt; The _**Product Category**_ is a brief of the available products, categorized.
-
-![Product category image](../.gitbook/assets/productcategory.png)
+# Product Category
 
 ## Standard implementation
+
+{% hint style="info" %}
+The _**Product Category**_ is a brief of the available products, categorized.
+{% endhint %}
+
+![Product category image](../.gitbook/assets/productcategory.png)
 
 ### Categories and products
 

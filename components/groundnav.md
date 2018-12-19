@@ -8,8 +8,6 @@ _**groundNav**_ is a special navigation, specially prepared to work at the botto
 
 ![:size=500](../.gitbook/assets/groundnav.png)
 
-## Standard implementation
-
 These _component_ will include:
 
 * A link to the Help Centre

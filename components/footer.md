@@ -1,12 +1,12 @@
-# footer
-
-## Footer
-
-!&gt; _**Footer**_ allows the user to navigate easily through important touchpoints of the website
-
-![Footer](../.gitbook/assets/footer.png)
+# Footer
 
 ## Standard implementation
+
+{% hint style="info" %}
+_**Footer**_ allows the user to navigate easily through important touchpoints of the website
+{% endhint %}
+
+![Footer](../.gitbook/assets/footer.png)
 
 These _footer_ will include different patterns:
 

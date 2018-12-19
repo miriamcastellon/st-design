@@ -1,10 +1,12 @@
-# imagesList
-
-!&gt; _**Images list**_ displays cards horizontally through a lateral scroll within a title, a description and a background.
-
-![Reviews brief image](../.gitbook/assets/imageslist.png)
+# Images List
 
 ## Standard implementation
+
+{% hint style="info" %}
+_**Images list**_ displays cards horizontally through a lateral scroll within a title, a description and a background.
+{% endhint %}
+
+![Reviews brief image](../.gitbook/assets/imageslist.png)
 
 These _images_ will include:
 
