@@ -2,7 +2,7 @@
 
 * [Presentation](README.md)
 * [Components](components/README.md)
-  * [searchForm](components/searchform.md)
+  * [Search Form](components/searchform.md)
   * [popularProducts](components/popularproducts.md)
   * [groundNav](components/groundnav.md)
   * [linkWall](components/linkwall.md)

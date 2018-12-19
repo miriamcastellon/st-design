@@ -1,4 +1,4 @@
-# searchForm
+# Search Form
 
 !&gt; Improve the interaction and CTR in the landing pages.
 
